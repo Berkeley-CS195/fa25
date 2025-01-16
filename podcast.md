@@ -3,26 +3,28 @@ layout: page
 title: CS 195 Podcast Assignment
 has_toc: true
 nav_order: 7
-group_form: https://docs.google.com/forms/d/e/1FAIpQLSfPYCl5PC0KYpfdCMnIYqa-4mOYwPQa2k2AE431V6KLQp2bkw/viewform?usp=sf_link
+group_form: TBD
 podcast1:
-  group_due:  2024-09-17
-  group_rel:  2024-09-20
-  due:        2024-10-08
-  peer_rel:   2024-10-11
-  peer_due:   2024-10-18
+  group_due:  TBD
+  group_rel:  TBD
+  due:        TBD
+  peer_rel:   TBD
+  peer_due:   TBD
 podcast2:
   group_due:  N/A
-  group_rel:  2024-11-8
-  due:        2024-11-19
-  peer_rel:   2024-11-22
-  peer_due:   2024-12-03
+  group_rel:  TBD
+  due:        TBD
+  peer_rel:   TBD
+  peer_due:   TBD
 
 ---
 
 # Podcast Assignment
 {:.no_toc}
 
-## Table of contents
+Coming Soon.
+
+<!-- ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -152,4 +154,4 @@ The easiest way to make an audio file AND an automatically generated transcript 
 * After you end the meeting, if you selected “Record to my Computer” then your files will be available locally. If you selected “Record to the Cloud” you will need to wait for Zoom to email you a link to download your files.
 * Upon viewing the files, you will see an .mp4 video file, .m4a audio file, a .vtt text transcript file. You can upload either the .m4a audio file or the .vtt text file (do **not** upload .mp4 or any video files).
 * If you choose to upload the .vtt text transcript file, you must also separately email your group’s audio file to the course staff. See the “Submission” details above for the correct email subject heading.
-
+ -->

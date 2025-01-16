@@ -35,7 +35,7 @@ EECS department enrollment categories, please make a private post on Ed.
 
 ## Staff Contact
 The best (and fastest) way to contact the staff is through the
-[Ed discussion board]({{ site.195_edstem }}). Additionally, feel
+[Ed discussion board]({{ site.edstem }}). Additionally, feel
 free to drop by or schedule a meeting for our office hours. More information
 about the office hours is available on the [staff page]({{site.baseurl}}/staff).
 
@@ -51,7 +51,7 @@ In order to receive a passing grade in CS 195, you must complete the following:
 
 | Course Component | Overview |
 | --- | --- |
-| [Lectures](#lectures)     | Attend at least **9** out of 12 lectures (starting Week 03) | 
+| [Lectures](#lectures)     | Attend at least **9** out of 12 lectures (starting Week 02) | 
 | [Surveys](#surveys) | Complete all required course surveys (about 7 in the semester) |
 | [Readings / QQCR](#readings--qqcr)| Submit at least 9 of 12 QQCRs (starting Week 02) |
 | [Podcasts](#podcasts)  | Submit two Computing in the News podcasts that receive passing peer review grades. Also, provide 2 peer reviews for each podcast. |
