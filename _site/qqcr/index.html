@@ -1,0 +1,487 @@
+
+
+<!DOCTYPE html>
+
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+  <link rel="stylesheet" href="/sp25/assets/css/just-the-docs-default.css">
+
+  <link rel="stylesheet" href="/sp25/assets/css/just-the-docs-head-nav.css" id="jtd-head-nav-stylesheet">
+
+  <style id="jtd-nav-activation">
+  
+
+.site-nav > ul.nav-list:first-child > li:not(:nth-child(3)) > a,
+.site-nav > ul.nav-list:first-child > li > ul > li > a,
+.site-nav > ul.nav-list:first-child > li > ul > li > ul > li > a {
+  background-image: none;
+}
+
+.site-nav > ul.nav-list:not(:first-child) a,
+.site-nav li.external a {
+  background-image: none;
+}
+
+.site-nav > ul.nav-list:first-child > li:nth-child(3) > a {
+  font-weight: 600;
+  text-decoration: none;
+}.site-nav > ul.nav-list:first-child > li:nth-child(3) > button svg {
+  transform: rotate(-90deg);
+}.site-nav > ul.nav-list:first-child > li.nav-list-item:nth-child(3) > ul.nav-list {
+  display: block;
+}
+  </style>
+
+  
+
+  
+    <script src="/sp25/assets/js/vendor/lunr.min.js"></script>
+  
+
+  <script src="/sp25/assets/js/just-the-docs.js"></script>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+
+  <link rel="icon" href="/sp25/favicon.ico" type="image/x-icon">
+
+
+
+  <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>CS 195 QQCR Assignment | CS 195</title>
+<meta name="generator" content="Jekyll v4.3.3" />
+<meta property="og:title" content="CS 195 QQCR Assignment" />
+<meta name="author" content="Josh Hug, Sophia Liu" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Question, Quote, Comment, and Reply Assignment." />
+<meta property="og:description" content="Question, Quote, Comment, and Reply Assignment." />
+<link rel="canonical" href="http://localhost:4000/sp25/qqcr/" />
+<meta property="og:url" content="http://localhost:4000/sp25/qqcr/" />
+<meta property="og:site_name" content="CS 195" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="CS 195 QQCR Assignment" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Josh Hug, Sophia Liu"},"description":"Question, Quote, Comment, and Reply Assignment.","headline":"CS 195 QQCR Assignment","url":"http://localhost:4000/sp25/qqcr/"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+    <!-- Use this to add global CSS/JS utitlties. -->
+
+  <!-- Loading the v6 core styles and the Solid and Brands styles -->
+  <link href="/sp25/assets/vendor/fontawesome/css/fontawesome.min.css"
+  rel="stylesheet" />
+  <link href="/sp25/assets/vendor/fontawesome/css/regular.min.css" rel="stylesheet" />
+  <link href="/sp25/assets/vendor/fontawesome/css/solid.min.css" rel="stylesheet" />
+  <!-- <link href="/sp25/assets/vendor/fontawesome/css/brands.css" rel="stylesheet" /> -->
+
+
+</head>
+
+<body>
+  <a class="skip-to-main" href="#main-content">Skip to main content</a>
+  <svg xmlns="http://www.w3.org/2000/svg" class="d-none">
+  <symbol id="svg-link" viewBox="0 0 24 24">
+  <title>Link</title>
+  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-link">
+    <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path>
+  </svg>
+</symbol>
+
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+  <title>Menu</title>
+  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu">
+    <line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line>
+  </svg>
+</symbol>
+
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+  <title>Expand</title>
+  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right">
+    <polyline points="9 18 15 12 9 6"></polyline>
+  </svg>
+</symbol>
+
+  <!-- Feather. MIT License: https://github.com/feathericons/feather/blob/master/LICENSE -->
+<symbol id="svg-external-link" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-external-link">
+  <title id="svg-external-link-title">(external link)</title>
+  <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line>
+</symbol>
+
+  
+    <symbol id="svg-doc" viewBox="0 0 24 24">
+  <title>Document</title>
+  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file">
+    <path d="M13 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z"></path><polyline points="13 2 13 9 20 9"></polyline>
+  </svg>
+</symbol>
+
+    <symbol id="svg-search" viewBox="0 0 24 24">
+  <title>Search</title>
+  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search">
+    <circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+  </svg>
+</symbol>
+
+  
+  
+    <!-- Bootstrap Icons. MIT License: https://github.com/twbs/icons/blob/main/LICENSE.md -->
+<symbol id="svg-copy" viewBox="0 0 16 16">
+  <title>Copy</title>
+  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-clipboard" viewBox="0 0 16 16">
+    <path d="M4 1.5H3a2 2 0 0 0-2 2V14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V3.5a2 2 0 0 0-2-2h-1v1h1a1 1 0 0 1 1 1V14a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V3.5a1 1 0 0 1 1-1h1v-1z"/>
+    <path d="M9.5 1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5h3zm-3-1A1.5 1.5 0 0 0 5 1.5v1A1.5 1.5 0 0 0 6.5 4h3A1.5 1.5 0 0 0 11 2.5v-1A1.5 1.5 0 0 0 9.5 0h-3z"/>
+  </svg>
+</symbol>
+<symbol id="svg-copied" viewBox="0 0 16 16">
+  <title>Copied</title>
+  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-clipboard-check-fill" viewBox="0 0 16 16">
+    <path d="M6.5 0A1.5 1.5 0 0 0 5 1.5v1A1.5 1.5 0 0 0 6.5 4h3A1.5 1.5 0 0 0 11 2.5v-1A1.5 1.5 0 0 0 9.5 0h-3Zm3 1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5h3Z"/>
+    <path d="M4 1.5H3a2 2 0 0 0-2 2V14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V3.5a2 2 0 0 0-2-2h-1v1A2.5 2.5 0 0 1 9.5 5h-3A2.5 2.5 0 0 1 4 2.5v-1Zm6.854 7.354-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 0 1 .708-.708L7.5 10.793l2.646-2.647a.5.5 0 0 1 .708.708Z"/>
+  </svg>
+</symbol>
+
+  
+</svg>
+
+  
+    <div class="side-bar">
+  <div class="site-header" role="banner">
+    <a href="/sp25/" class="site-title lh-tight">
+  CS 195
+
+</a>
+    <button id="menu-button" class="site-button btn-reset" aria-label="Toggle menu" aria-pressed="false">
+      <svg viewBox="0 0 24 24" class="icon" aria-hidden="true"><use xlink:href="#svg-menu"></use></svg>
+    </button>
+  </div>
+
+  <nav aria-label="Main" id="site-nav" class="site-nav">
+  
+  
+    <ul class="nav-list"><li class="nav-list-item"><a href="/sp25/" class="nav-list-link">Home</a></li><li class="nav-list-item"><a href="/sp25/syllabus/" class="nav-list-link">CS 195 Syllabus</a></li><li class="nav-list-item"><a href="/sp25/qqcr/" class="nav-list-link">CS 195 QQCR Assignment</a></li><li class="nav-list-item"><a href="/sp25/podcast/" class="nav-list-link">CS 195 Podcast Assignment</a></li><li class="nav-list-item"><a href="/sp25/syllabus-h195/" class="nav-list-link">CS H195 Syllabus</a></li><li class="nav-list-item"><a href="/sp25/h195-assignments/" class="nav-list-link">CS H195 Assignments</a></li><li class="nav-list-item"><a href="/sp25/staff/" class="nav-list-link">Staff</a></li><li class="nav-list-item"><a href="/sp25/01/" class="nav-list-link">Free Speech</a></li></ul>
+
+  
+</nav>
+
+
+  
+  
+    <!-- This file adds links at the bottom of the sidebar on the left. -->
+
+
+<section class="site-footer py-1" aria-label="Footer: site archive">
+  <a href="/"
+    target="_blank" rel="noopener nofollow">View all course offerings
+  </a>
+</section>
+
+
+
+  <div class="site-footer m-1">
+    
+
+<span class="fs-3">
+  <button type="button"
+    class="btn js-toggle-dark-mode btn-outline"
+    style="margin-right: -3px; border-top-right-radius: 0; border-bottom-right-radius: 0;"
+    aria-label="Switch to Dark Mode">🌙 Dark Mode</button>
+  <button type="button"
+    class="btn js-unset-color-scheme btn-outline px-2"
+    style="margin-left: -3px; border-top-left-radius: 0; border-bottom-left-radius: 0;"
+    aria-label="Automatically switch theme"
+    ><i class="fa-solid fa-rotate" title="Automatically switch theme"></i></button>
+</span>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    if (!jtd) { return; }
+
+    const toggleSchemeBtn = document.querySelector('.js-toggle-dark-mode');
+    const unsetColorScheme = document.querySelector('.js-unset-color-scheme');
+
+    // If the browser suggests a color scheme, and user hasn't saved/switch one yet..
+    if (window.matchMedia && !localStorage['jtd-theme']) {
+      if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        jtd.setTheme('dark');
+        toggleSchemeBtn.textContent = '🔆 Light Mode';
+        toggleSchemeBtn.ariaLabel = 'Switch to Light Mode';
+      } else if (window.matchMedia('(prefers-color-scheme: light)').matches) {
+        jtd.setTheme('light');
+        toggleSchemeBtn.textContent = '🌙 Dark Mode';
+        toggleSchemeBtn.ariaLabel = 'Switch to Dark Mode';
+      }
+    } else if (localStorage['jtd-theme']) {
+      jtd.setTheme(localStorage['jtd-theme']);
+    }
+
+    jtd.addEvent(toggleSchemeBtn, 'click', function() {
+      if (jtd.getTheme() === 'dark') {
+        localStorage['jtd-theme'] = 'light';
+        jtd.setTheme('light');
+        toggleSchemeBtn.textContent = '🌙 Dark Mode';
+        toggleSchemeBtn.ariaLabel = 'Switch to Dark Mode';
+      } else {
+        jtd.setTheme('dark');
+        localStorage['jtd-theme'] = 'dark';
+        toggleSchemeBtn.textContent = '🔆 Light Mode';
+        toggleSchemeBtn.ariaLabel = 'Switch to Light Mode';
+      }
+    });
+
+    // Add a way to unset the saved theme.
+    // "default" respect's the site config setting, but not the user browser pref
+    // So, check the pref and set the theme to the preferred one, if possible.
+    jtd.addEvent(unsetColorScheme, 'click', function() {
+      delete localStorage['jtd-theme'];
+
+      if (window.matchMedia) {
+        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+          jtd.setTheme('dark');
+        } else if (window.matchMedia('(prefers-color-scheme: light)').matches) {
+          jtd.setTheme('light');
+        }
+      } else {
+        jtd.setTheme('default');
+      }
+    });
+  });
+</script>
+
+  </div>
+
+
+  
+</div>
+
+  
+  <div class="main" id="top">
+    <div id="main-header" class="main-header">
+  
+    
+
+<div class="search" role="search">
+  <div class="search-input-wrap">
+    <input type="text" id="search-input" class="search-input" tabindex="0" placeholder="Search CS 195" aria-label="Search CS 195" autocomplete="off">
+    <label for="search-input" class="search-label"><svg viewBox="0 0 24 24" class="search-icon"><use xlink:href="#svg-search"></use></svg></label>
+  </div>
+  <div id="search-results" class="search-results"></div>
+</div>
+
+  
+  
+  
+    <nav aria-label="Auxiliary" class="aux-nav">
+  <ul class="aux-nav-list">
+    
+      <li class="aux-nav-list-item">
+        <a href="https://edstem.org/us/courses/73099/discussion/" class="site-button"
+          
+        >
+          195_edstem
+        </a>
+      </li>
+    
+      <li class="aux-nav-list-item">
+        <a href="https://edstem.org/us/courses/66531/discussion/" class="site-button"
+          
+        >
+          H195_edstem
+        </a>
+      </li>
+    
+      <li class="aux-nav-list-item">
+        <a href="" class="site-button"
+          
+        >
+          bcourses
+        </a>
+      </li>
+    
+  </ul>
+</nav>
+
+  
+</div>
+
+    <div class="main-content-wrap">
+      
+      <div id="main-content" class="main-content">
+        <main>
+          
+            <h1 id="question-quote-comment-and-reply-qqcr-assignment">
+  
+  
+    <a href="#question-quote-comment-and-reply-qqcr-assignment" class="anchor-heading" aria-labelledby="question-quote-comment-and-reply-qqcr-assignment"><svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> Question, Quote, Comment, and Reply (QQCR) Assignment
+  
+  
+</h1>
+    
+
+<p><strong>This assignment is only for CS 195 students.</strong> For the CS H195 version of this assignment, see the <a href="/sp25/qqc-journal">H195 QQCR page</a>.</p>
+<h2 id="assignment-description">
+  
+  
+    <a href="#assignment-description" class="anchor-heading" aria-labelledby="assignment-description"><svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> Assignment Description
+  
+  
+</h2>
+    
+<p><strong>QQCR</strong>, or Question, Quote, Comment, and Reply, is a short weekly assignment on the readings to help you reflect on the readings and contribute to an ongoing class discussion.
+We expect there to be a range of opinions in this classroom.</p>
+
+<p>To complete a QQCR, post a question, quote, comment, or reply on the associated Ed megapost for a reading.</p>
+<ul>
+  <li><strong>Question</strong>: Make a new thread under the megapost with a question about the reading and any needed context for others to follow up. You should include the text <code class="language-plaintext highlighter-rouge">[Question]</code> at the beginning of your post.</li>
+  <li><strong>Quote</strong>: Make a new thread under the megapost that highlights a quote, and your comment/reaction to that quote. You should include the text <code class="language-plaintext highlighter-rouge">[Quote]</code> at the beginning of your post.</li>
+  <li><strong>Comment</strong>: Make a new thread under the megapost with a comment about the reading. You should include the text <code class="language-plaintext highlighter-rouge">[Comment]</code> at the beginning of your post.-</li>
+  <li><strong>Reply</strong>: Make a response on someone else’s thread for a reading.</li>
+</ul>
+
+<p>Multiple QQCRs compose a <strong>QQCR set</strong>. One QQCR set is assigned per lecture.</p>
+<h2 id="grading">
+  
+  
+    <a href="#grading" class="anchor-heading" aria-labelledby="grading"><svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> Grading
+  
+  
+</h2>
+    
+<ul>
+  <li>To receive satisfactory credit for a <strong>QQCR set</strong> for a given lecture, you must make <strong>three QQCRs</strong> total on any of the required readings, where one of your QQCRs needs to be a reply.
+    <ul>
+      <li>In other words, you must make one Reply on someone else’s thread on one of the associated Ed megaposts in the reading set. In addition, you must also make two of Questions, Quotes, Comments, and/or Replies on the associated Ed megaposts in the reading set. Note that these five QQCRs do not need to be on the same reading.</li>
+      <li>For example, a QQCR set could consist of a mix of one Question on one reading, and two Replies on a different reading. Or, a QQCR set could consist of three Replies on the same reading.</li>
+      <li>You are responsible for completing all readings in the set, regardless of whether you make a QQCR on a given reading.</li>
+    </ul>
+  </li>
+  <li><strong>You are expected to complete your QQCR sets prior to the corresponding lecture time.</strong> This ensuers a rich discussion during class. If readings are assigned for Week 3, you should finish the three QQCRs for that set of readings prior to the start of lecture that week.</li>
+  <li>You only get credit for posting on the megathreads for required readings. Separate Ed posts nor posts about optional readings will not receive credit.</li>
+  <li>One-word posts will not receive credit. Most other posts longer than 50 characters will.</li>
+  <li>You are permitted up to <strong>3 QQCR set drops</strong> this semester. That means that if you satisfactorily submit at least 10 of 13 sets of QQCRs, you will pass this course component. Lecture 1 does not have a QQCR set.</li>
+</ul>
+
+<!--* It is OK for you to post anonymously, meaning your name will be anonymous to fellow classmates but visible to course staff (who will use it for tracking assignment credit).-->
+<!--* You do not get credit for posting about optional readings.-->
+
+<!--
+  * We reserve the right to give you a zero on a QQCR, or remove your grade for it if we deem your post to be egregiously low-effort. We will inform you and likely allow you to redo this QQCR if this occurs.
+  * You *should* post in the **Ed megapost** that course staff create for each reading.
+  * You *should not* make private or separate public Ed posts. Doing so will not earn credit. Early on, we might make an effort to merge your posts to the respective Ed megapost, but ultimately you are responsible for moving your posts to the megapost. 
+  * "Heart"s on other student posts are encouraged but unfortunately do not count for credit (we have no way of tracking hearts).
+  -->
+<h3 id="example">
+  
+  
+    <a href="#example" class="anchor-heading" aria-labelledby="example"><svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> Example
+  
+  
+</h3>
+    
+
+<p>Suppose you are trying to complete QQCRs for a given week, and for this week the readings are:</p>
+<ol>
+  <li>[Required] Reading 1</li>
+  <li>[Required] Reading 2</li>
+  <li>[Optional] Reading 3
+Reminder that required and recommended readings operate the same when it comes to completing QQCRs.</li>
+</ol>
+
+<p>Any of the below would receive credit for the QQCR set for the week. Note at least one QQCR must always be a reply to someone else’s thread.</p>
+
+<ul>
+  <li>One comment on the Reading 1 megathread, one quote on the Reading 2 megathread, and one reply to a classmate on the Reading 1 megathread.</li>
+  <li>Two quotes on the Reading 2 megathread and one reply to a classmate on the Reading 2 megathread.</li>
+  <li>One reply on the Reading 1 megathread, one quote on the Reading 2 megathread, and one reply to a classmate on either required megathread.</li>
+  <li>One question, one comment, and one reply to a classmate, all on the Reading 2 megathread.</li>
+  <li>Three replies to classmates on the Reading 1 megathread.</li>
+</ul>
+
+<p>Effectively, a QQCR set means three QQCR posts on any selection of required threads (with replacement), where at least one is a reply.</p>
+
+<!--
+## Formatting
+
+For formatting, we ask that you separate out each QQCR into a different post. They can all be in the same thread, but each should be posted separately. This serves two purposes. For one it makes grading easier, but more importantly it makes replies easier for your peers since they will only be responding to one thing and the train of thought is more clear. 
+
+We also ask that you put a tag indicating which kind of QQCR each post is. For example if you are making a 'quote' post, please put \[Quote\] in the body of the post. As before, this serves the purpose of making grading easier and making it easier for your peers to scan through the responses to a particular post when deciding where to comment. 
+-->
+<h2 id="late-policy-and-regrades">
+  
+  
+    <a href="#late-policy-and-regrades" class="anchor-heading" aria-labelledby="late-policy-and-regrades"><svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> Late Policy and Regrades
+  
+  
+</h2>
+    
+
+<p>Please see the <a href="/sp25/syllabus/#accommodations-regrades-and-late-policy">Accommodations and Late Policy</a> section of our Syllabus for more details.</p>
+
+<p>We have a bot that should catch most formatting errors you could make. If you get a 0 on a QQCR and you expect to have gotten a grade on it, feel free to submit a <a href="/sp25/syllabus#accommodations-regrades-and-late-policy">regrade</a>.</p>
+<h2 id="academic-integrity">
+  
+  
+    <a href="#academic-integrity" class="anchor-heading" aria-labelledby="academic-integrity"><svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> Academic Integrity
+  
+  
+</h2>
+    
+
+<p>Please see our Syllabus page for our discussion on <a href="/sp25/syllabus/#ai-generated-text">AI-generated text</a>.</p>
+
+          
+
+          
+        </main>
+        
+
+  <hr>
+  <footer>
+    
+      <p><a href="#top" id="back-to-top">Back to Top</a></p>
+    
+
+    <!-- This file comes from Just The Docs.
+ This footer should be included on all EECS/DS sites.
+--><p class="text-small text-grey-dk-100 my-1">
+  <a rel="nofollow noopener" href="https://dap.berkeley.edu/get-help/report-web-accessibility-issue" target="_blank" class="pr-2">Accessibility</a>
+  <a rel="nofollow noopener" href="https://ophd.berkeley.edu/policies-and-procedures/nondiscrimination-policy-statement" target="_blank" class="px-2">Nondiscrimination</a>
+</p>
+
+<!-- Use this to add additional content. -->
+<p class="text-small text-lighter m-0">
+  Copyright ©2025, Regents of the University of Californa and respective authors.
+</p>
+
+<p class="fs-1 text-lighter my-1">
+  This site is built following the <a href="https://github.com/just-the-docs/just-the-docs" target="_blank" rel="noopener">Berkeley Class Site</a> template, which is generously based on the <a href="https://github.com/kevinl/just-the-class" target="_blank" rel="noopener">Just the Class</a>, and <a href="https://github.com/just-the-docs/just-the-docs" target="_blank" rel="noopener">Just the Docs</a> templates.
+</p>
+
+
+    
+      <div class="d-flex mt-2">
+        
+        
+      </div>
+    
+  </footer>
+
+
+      </div>
+    </div>
+    
+      
+
+<div class="search-overlay"></div>
+
+    
+  </div>
+
+  
+</body>
+</html>
+
