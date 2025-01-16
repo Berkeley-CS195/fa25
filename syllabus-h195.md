@@ -66,9 +66,13 @@ In order to receive a passing grade in CS H195, you must complete the following:
 ## Assignments and Schedule
 Note you do not complete CS 195 podcasts. Instead, CS H195 projects and deadlines are listed here:
 
+(Coming Soon)
+
+<!--
 {% include h195-assignments.md %}
 
 These are also located on the sidebar, [H195 Assignments]({{ site.baseurl }}/h195-assignments).
+-->
 
 ### Readings / QQC 
 
