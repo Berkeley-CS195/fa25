@@ -71,8 +71,8 @@ aux_links:
   #  - 'https://edstem.org/us/courses/66531/discussion/'
   #OH Queue:
   #  - 'https://oh.c88c.org'
-  #bcourses:
-  #  - ''
+  bcourses:
+    - 'https://bcourses.berkeley.edu/courses/1542384'
 
 # TODO(template): These need to be documented
 # TODO(semester): You may want to review these...
