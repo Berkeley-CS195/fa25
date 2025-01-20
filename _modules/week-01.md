@@ -6,4 +6,4 @@ Status: Active
 
 Tue 01/21
 : {% lec 1 %}
-  : {% survey 2 %}, Due Fri 1/31 11:59pm
+  : {% survey 1 %}, Due Fri 1/31 11:59pm
