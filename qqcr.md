@@ -1,14 +1,12 @@
 ---
 layout: page
-title: CS 195 QQCR Assignment
+title: CS 195 / H195 QQCRs
 description: >-
     Question, Quote, Comment, and Reply Assignment.
 nav_order: 5
 ---
 
 # Question, Quote, Comment, and Reply (QQCR) Assignment
-
-**This assignment is only for CS 195 students.** For the CS H195 version of this assignment, see the [H195 QQCR page]({{site.baseurl}}/qqc-journal).
 
 ## Assignment Description
 **QQCR**, or Question, Quote, Comment, and Reply, is a short weekly assignment on the readings to help you reflect on the readings and contribute to an ongoing class discussion.
@@ -24,7 +22,7 @@ Multiple QQCRs compose a **QQCR set**. One QQCR set is assigned per lecture.
 
 ## Grading
 * To receive satisfactory credit for a **QQCR set** for a given lecture, you must make **three QQCRs** total on any of the required readings, where one of your QQCRs needs to be a reply.
-  * In other words, you must make one Reply on someone else’s thread on one of the associated Ed megaposts in the reading set. In addition, you must also make two of Questions, Quotes, Comments, and/or Replies on the associated Ed megaposts in the reading set. Note that these five QQCRs do not need to be on the same reading.
+  * In other words, you must make one Reply on someone else’s thread on one of the associated Ed megaposts in the reading set. In addition, you must also make two of Questions, Quotes, Comments, and/or Replies on the associated Ed megaposts in the reading set. Note that these three QQCRs do not need to be on the same reading.
   * For example, a QQCR set could consist of a mix of one Question on one reading, and two Replies on a different reading. Or, a QQCR set could consist of three Replies on the same reading.
   * You are responsible for completing all readings in the set, regardless of whether you make a QQCR on a given reading.
 * **You are expected to complete your QQCR sets prior to the corresponding lecture time.** This ensuers a rich discussion during class. If readings are assigned for Week 3, you should finish the three QQCRs for that set of readings prior to the start of lecture that week.
