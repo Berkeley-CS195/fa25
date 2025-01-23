@@ -5,13 +5,15 @@ nav_exclude: true
 released: true
 dates:
   release: 2024-10-03
-  checkpoint1: 2024-10-10
-  checkpoint2: 2024-10-17
-  due: 2024-10-23
+  checkpoint1: TBD
+  checkpoint2: TBD
+  due: TBD
 ---
 
 # CS H195 Project 1: Teaching Computing in Society
 {: .no_toc}
+
+This page is in beta and is subject to change. This assignment will be in October.
 
 ## Table of Contents
 {: .no_toc .text-delta }

@@ -5,12 +5,14 @@ nav_exclude: true
 released: true
 dates:
   release: 2024-11-07
-  checkpoint1: 2024-11-14
-  checkpoint2: 2024-11-28
-  due: 2024-12-05
+  checkpoint1: TBD
+  checkpoint2: TBD
+  due: TBD
 ---
 
 <cite>Adapted from Dr. Cynthia Lee, Stanford University</cite>
+
+This page is in beta and is subject to change. This assignment will be in November and December.
 
 # CS H195 Project 2: Technology and the Community
 {: .no_toc}
