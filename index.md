@@ -21,9 +21,6 @@ nav_order: 1
   {% endfor %}
 </div>
 
-## Announcements
-
-{% include announcements-navigation.html %}
 
 ## Schedule
 
