@@ -94,7 +94,7 @@ collections:
     permalink: /:collection/:path/
   lectures:
     output: true
-    sort_by: number # Date could work...
+    sort_by: number 
     permalink: /lectures/:path/
   hw:
     output: true

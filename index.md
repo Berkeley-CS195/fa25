@@ -24,7 +24,7 @@ nav_order: 1
 
 ## Schedule
 
-{% assign mods = site.modules %}
+{% assign mods = site.modules | sort: "date" | reverse %}
 {% for mod in mods %}
   {% if mod.Status == 'Active' %}
     {{ mod }}
