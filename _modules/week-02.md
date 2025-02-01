@@ -9,4 +9,4 @@ Tue 01/28
   : {% survey 1 %}, Due Fri 1/31 11:59pm
 
 Thu 01/30
-: {% disc 2 %} H195 Discussion 2
+: {% disc 2 %} [H195 Discussion 2](https://docs.google.com/presentation/d/1Xjfs4jVdoe2HKHO68DOCKM2HsXAkO7rjX9w9mEfhrM8/edit?usp=sharing)
