@@ -3,28 +3,26 @@ layout: page
 title: CS 195 Podcast Assignment
 has_toc: true
 nav_order: 7
-group_form: TBD
+group_form: https://forms.gle/cZ3zsbajtu7zLuVd8
 podcast1:
-  group_due:  TBD
-  group_rel:  TBD
-  due:        TBD
-  peer_rel:   TBD
-  peer_due:   TBD
+  group_due:  02/18
+  group_rel:  02/20
+  due:        03/11
+  peer_rel:   03/14
+  peer_due:   03/21
 podcast2:
   group_due:  N/A
-  group_rel:  TBD
-  due:        TBD
-  peer_rel:   TBD
-  peer_due:   TBD
+  group_rel:  04/01
+  due:        04/22
+  peer_rel:   04/25
+  peer_due:   05/02
 
 ---
 
 # Podcast Assignment
 {:.no_toc}
 
-Coming Soon.
-
-<!-- ## Table of contents
+## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -67,7 +65,7 @@ to register your group and/or provide preferences for random group assignment.
 * After the form closes, we will email each group and include student contact emails. Please let us know if you do not receive your group assignment within a week of filling out the form.
   
 #### **Podcast 2**: 
-We assume your groups will be the same from last podcast, but if you want to switch you may email cs195@berkeley.edu by 11/12 at 11:59pm with your request for a group change. 
+We assume your groups will be the same from last podcast, but if you want to switch you may email cs195@berkeley.edu by 03/28 at 11:59pm with your request for a group change. 
 
 People whose partners have dropped or had other extenuating circumstances have been informed of their new groups. 
 
@@ -84,8 +82,8 @@ If you would just like to have a different partner or work alone and you don't h
 ### Topic Choice and Required Media
 
 Topic choices:
-* **Podcast 1**: From Week 02: Free Speech up to and including Week 07: Government Surveillance. You must pick a topic related to what we will have covered in lecture.
-* **Podcast 2**: From Week 08: Generative AI up to and including Week 15: Tech and Labor II and Closing. Or, you can choose your own topic, so long as it is related to the themes of this class.
+* **Podcast 1**: Any topic from Week 01 up to and including Week 06. You must pick a topic related to what we will have covered in lecture.
+* **Podcast 2**: From Week 07 up to and including Week 13. Or, you can choose your own topic, so long as it is related to the themes of this class.
 
 As part of your discussion, **cite or discuss one external news article, tweet, video from Tiktok/YouTube/etc., academic paper, or other relevant form of media that is outside of the ones discussed or shared in class.** You can include multiple of these if that’s what you want to talk about, but just one is required for submission.
 
@@ -129,7 +127,8 @@ Instructional staff will spot-review some podcasts and will explicitly re-review
 Submit your podcast via bCourses.
 
 * Only one person from each group will need to submit to bCourses.
-  * \[ updated 9/30 \] **Podcast 1**: [Assignment Portal](https://bcourses.berkeley.edu/courses/1538786/assignments/8817136){:target="\_blank"}; [Group assignments](https://bcourses.berkeley.edu/courses/1538786/groups#tab-85716){: target="\_blank"}. We will only resolve import errors, not last-minute group switches.
+  * **Podcast 1**: Link coming later.
+
 * **You must announce your topic and the media you are citing at the beginning of your podcast.** This will greatly facilitate peer and staff grading.
 * **Check your filenames**: Remember that peer reviewers can see your filename. Please rename your file if you would prefer anonymity. 
 * **Alternate transcript submissions**: If you prefer to submit a text transcript of your conversation for peer grading; details on how to use Zoom recordings for auto-transcript are at the bottom of the assignment page. Please note that you will need to ALSO email the audio file to our course staff email at [{{ site.course_email }}](mailto:{{ site.course_email }}) **before** the assignment deadline.
@@ -154,4 +153,3 @@ The easiest way to make an audio file AND an automatically generated transcript 
 * After you end the meeting, if you selected “Record to my Computer” then your files will be available locally. If you selected “Record to the Cloud” you will need to wait for Zoom to email you a link to download your files.
 * Upon viewing the files, you will see an .mp4 video file, .m4a audio file, a .vtt text transcript file. You can upload either the .m4a audio file or the .vtt text file (do **not** upload .mp4 or any video files).
 * If you choose to upload the .vtt text transcript file, you must also separately email your group’s audio file to the course staff. See the “Submission” details above for the correct email subject heading.
- -->

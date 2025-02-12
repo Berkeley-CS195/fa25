@@ -1,11 +1,11 @@
 ---
-title: Week 03
-date: 2025-02-04
+title: Week 04
+date: 2025-02-18
 Status: Active
 ---
 
-Tue 02/11
+Tue 02/18
 : {% lec 4 %}
 
-Thu 02/13
+Thu 02/20
 : {% disc 4 %} H195 Discussion 4
