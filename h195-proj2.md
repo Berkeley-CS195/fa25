@@ -4,10 +4,10 @@ is_h195: true
 nav_exclude: true
 released: true
 dates:
-  release: 2024-11-07
-  checkpoint1: TBD
-  checkpoint2: TBD
-  due: TBD
+  release: 2025-04-03
+  checkpoint1: Thu 4/10
+  checkpoint2: Thu 4/17
+  due: Thu 4/24
 ---
 
 <cite>Adapted from Dr. Cynthia Lee, Stanford University</cite>

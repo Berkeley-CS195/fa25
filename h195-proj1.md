@@ -4,10 +4,10 @@ is_h195: true
 nav_exclude: true
 released: true
 dates:
-  release: 2024-10-03
-  checkpoint1: TBD
-  checkpoint2: TBD
-  due: TBD
+  release: 2025-02-27
+  checkpoint1: Thu 3/6
+  checkpoint2: Thu 3/13
+  due: Thu 3/20
 ---
 
 # CS H195 Project 1: Teaching Computing in Society
