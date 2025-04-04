@@ -12,8 +12,6 @@ dates:
 
 <cite>Adapted from Dr. Cynthia Lee, Stanford University</cite>
 
-This page is in beta and is subject to change. This assignment will be in November and December.
-
 # CS H195 Project 2: Technology and the Community
 {: .no_toc}
 
@@ -53,8 +51,7 @@ to do for your project, not just time actively typing.
 
 ## Topic and Project Selection
 
-In Week 11 ({{page.topicdue}}), we will do a "post-it" brainstorming activity in pairs or groups on
-possible topics and projects; and possibly form groups.
+In Week 10, we will do a brainstorming activity on possible topics and projects and possibly form groups.
 
 Some past projects from previous CS 195 Students:
 
