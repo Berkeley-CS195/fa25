@@ -8,4 +8,4 @@ Tue 04/01
 : {% lec 9 %}
 
 Thu 04/03
-: {% disc 9 %} H195 Discussion 9 
+: {% disc 9 %} [H195 Discussion 9](https://docs.google.com/presentation/d/19qJQdHF0pqib_mAzl__CGX0AcyEvorlS_14XSADeRng/edit?usp=drive_link)
