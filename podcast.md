@@ -12,10 +12,10 @@ podcast1:
   peer_due:   03/21
 podcast2:
   group_due:  N/A
-  group_rel:  04/01
-  due:        04/22
-  peer_rel:   04/25
-  peer_due:   05/02
+  group_rel:  N/A
+  due:        04/29
+  peer_rel:   05/02
+  peer_due:   05/09
 
 ---
 
