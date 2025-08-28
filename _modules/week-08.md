@@ -1,8 +1,8 @@
 ---
 title: Week 08
-date: 2025-10-15
+date: 2025-10-16
 Status: Active
 ---
 
-Thu 10/015
+Thu 10/16
 : {% lec 8 %}

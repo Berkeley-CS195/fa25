@@ -65,14 +65,14 @@ assignment_time: "11:59pm"
 # TODO(setup): Set these auxiliary links as you wish - they show up on the top right
 aux_links:
   # TODO(template): Move this to be built-in.
-  195 edstem:
-    - 'https://edstem.org/us/courses/73099/discussion/'
+  # 195 edstem:
+  #   - 'https://edstem.org/us/courses/73099/discussion/'
   #H195 edstem:
   #  - 'https://edstem.org/us/courses/66531/discussion/'
   #OH Queue:
   #  - 'https://oh.c88c.org'
   bcourses:
-    - 'https://bcourses.berkeley.edu/courses/1538786'
+    - 'https://bcourses.berkeley.edu/courses/1547928'
 
 # TODO(template): These need to be documented
 # TODO(semester): You may want to review these...

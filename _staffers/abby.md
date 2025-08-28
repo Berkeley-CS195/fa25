@@ -2,8 +2,7 @@
 name: Abby Brooks-Ramirez
 role: Teaching Assistant
 email: a.brooks@berkeley.edu
-website:
-photo: 
+photo: staff/abby.jpg
 pronouns: she/her
 team: Head TA
 ---
