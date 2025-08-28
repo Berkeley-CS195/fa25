@@ -5,6 +5,7 @@ has_toc: true
 nav_order: 7
 group_form: https://forms.gle/cZ3zsbajtu7zLuVd8
 podcast1:
+  rel:        09/19
   group_due:  02/18
   group_rel:  02/20
   due:        03/11

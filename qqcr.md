@@ -4,15 +4,21 @@ title: CS 195 / H195 QQCRs
 description: >-
     Question, Quote, Comment, and Reply Assignment.
 nav_order: 5
+n_drops: 3
+n_qqcrs_min: 10
+n_qqcrs: 13
 ---
 
 # Question, Quote, Comment, and Reply (QQCR) Assignment
+
+{: .warning }
+> **(Update 8/28)** This page is still under construction; we are testing a few platforms for collaborative reading. The platform will be decided when we release this reading (latest Monday 9/1).
 
 ## Assignment Description
 **QQCR**, or Question, Quote, Comment, and Reply, is a short weekly assignment on the readings to help you reflect on the readings and contribute to an ongoing class discussion.
 We expect there to be a range of opinions in this classroom. 
 
-To complete a QQCR, post a question, quote, comment, or reply on the associated Ed megapost for a reading.
+To complete a QQCR, post a question, quote, comment, or reply on the *TBD PLATFORM* <!--associated Ed megapost--> for a reading.
   * **Question**: Make a new thread under the megapost with a question about the reading and any needed context for others to follow up. You should include the text `[Question]` at the beginning of your post.
   * **Quote**: Make a new thread under the megapost that highlights a quote, and your comment/reaction to that quote. You should include the text `[Quote]` at the beginning of your post.
   * **Comment**: Make a new thread under the megapost with a comment about the reading. You should include the text `[Comment]` at the beginning of your post.-
@@ -22,13 +28,13 @@ Multiple QQCRs compose a **QQCR set**. One QQCR set is assigned per lecture.
 
 ## Grading
 * To receive satisfactory credit for a **QQCR set** for a given lecture, you must make **three QQCRs** total on any of the readings, where one of your QQCRs needs to be a reply.
-  * In other words, you must make one Reply on someone else’s thread on one of the associated Ed megaposts in the reading set. In addition, you must also make two of Questions, Quotes, Comments, and/or Replies on the associated Ed megaposts in the reading set. Note that these three QQCRs do not need to be on the same reading.
+  * In other words, you must make one Reply on someone else’s thread on one of the associated Ed megaposts in the reading set. In addition, you must also make two of Questions, Quotes, Comments, and/or Replies on the _TBD PLATFORM_ <!--associated Ed megaposts--> in the reading set. Note that these three QQCRs do not need to be on the same reading.
   * For example, a QQCR set could consist of a mix of one Question on one reading, and two Replies on a different reading. Or, a QQCR set could consist of three Replies on the same reading.
   * You are responsible for completing all readings in the set, regardless of whether you make a QQCR on a given reading.
-* **You are expected to complete your QQCR sets prior to the corresponding lecture time.** This ensuers a rich discussion during class. If readings are assigned for Week 3, you should finish the three QQCRs for that set of readings prior to the start of lecture that week.
-* For QQCRs, you only get credit for posting on the megathreads. Separate Ed posts will not receive credit, though you're of course welcome to post such threads.
+* **You are expected to complete your QQCR sets prior to the corresponding lecture time.** This ensures a rich discussion during class. If readings are assigned for Week 3, you should finish the three QQCRs for that set of readings prior to the start of lecture that week.
+* For QQCRs, you only get credit for posting on the *TBD PLATFORM* <!--Ed megaposts-->.
 * One-word posts will not receive credit. Most other posts longer than 50 characters will.
-* You are permitted up to **3 QQCR set drops** this semester. That means that if you satisfactorily submit at least 10 of 13 sets of QQCRs, you will pass this course component. Lecture 1 does not have a QQCR set.
+* You are permitted up to **{{ page.n_drops }} QQCR set drops** this semester. That means that if you satisfactorily submit at least {{ page.n_qqcrs_min }} of {{ page.n_qqcrs }} sets of QQCRs, you will pass this course component. Lecture 1 does not have a QQCR set.
 * It is OK if one or more of your QQCRs are on the same thread.
 
 <!--* It is OK for you to post anonymously, meaning your name will be anonymous to fellow classmates but visible to course staff (who will use it for tracking assignment credit).-->
