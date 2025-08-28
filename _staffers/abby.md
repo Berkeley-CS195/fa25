@@ -1,9 +1,9 @@
 ---
-name: Sophia Liu
+name: Abby Brooks-Ramirez
 role: Teaching Assistant
-email: sophiawliu@berkeley.edu
+email: a.brooks@berkeley.edu
 website:
-photo: staff/sophia.jpg
+photo: 
 pronouns: she/her
 team: Head TA
 ---

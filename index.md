@@ -9,7 +9,7 @@ nav_order: 1
 
 {: .mb-2 }
 
-## UC Berkeley, Spring 2025
+## UC Berkeley, Fall 2025
 {: .mb-2 .fs-6 .text-grey-dk-000 }
 
 <!-- Insert Buttons here Later -->
@@ -24,7 +24,7 @@ nav_order: 1
 
 ## Schedule
 
-{% assign mods = site.modules | sort: "date" | reverse %}
+{% assign mods = site.modules | sort: "date" %}
 {% for mod in mods %}
   {% if mod.Status == 'Active' %}
     {{ mod }}

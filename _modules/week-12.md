@@ -1,11 +1,8 @@
 ---
 title: Week 12
-date: 2025-04-15
+date: 2025-11-12
 Status: Active
 ---
 
-Tue 04/22
+Thu 10/12
 : {% lec 12 %}
-
-Thu 04/24
-: {% disc 12 %} H195 Discussion 12

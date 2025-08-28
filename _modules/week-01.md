@@ -1,12 +1,9 @@
 ---
 title: Week 01
-date: 2025-01-21
+date: 2025-08-27
 Status: Active
 ---
 
-Tue 01/21
+Thu 08/27
 : {% lec 1 %}
-  : {% survey 1 %}, Due Fri 1/31 11:59pm
-
-Thu 01/23
-: {% disc 1 %} [H195 Discussion 1](https://docs.google.com/presentation/d/1p7gbb3NFFLPgAdvZnagIRLBL7rgqVewRMcbnLI0dYDo/edit#slide=id.g32816cbd51f_0_0)
+    : {% survey 1 %}, Due Fri 9/05 11:59pm

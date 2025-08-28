@@ -20,13 +20,13 @@ title: CS 195
 tagline: Social Implications of Computer Technology
 description: Social Implications of Computer Technology
 # TODO(template): this should be built from the staff list...
-author: Josh Hug, Sophia Liu
+author: Lisa Yan, Abby Brooks-Ramirez
 # You should use either light or dark as the theme.
 color_scheme: light
   # # logo
   # logo: cs195-logo.png # used to populate top-left, ignore
 # TODO(setup): Set this to the semester, e.g. /sp24, (faXX / spXX / suXX / wiXX )
-baseurl: '/sp25' # the subpath of your site, which should just be the semester.
+baseurl: '/fa25' # the subpath of your site, which should just be the semester.
 # TODO(setup): Set this to your course's domain
 url: 'https://cs195.org' # the hostname & protocol for your site, e.g. http://example.com
 
@@ -39,9 +39,9 @@ future: true # build pages even if they don't exist
 course: CS 195
 course_email: cs195@berkeley.edu
 gradescope_course_id:  # you can find this in the Gradescope URL after /courses
-bcourses_course_id:  # Same as above, but for bCourses. Leave blank if not in use...
+bcourses_course_id: 1538786 # Same as above, but for bCourses. Leave blank if not in use...
 ed_course_id:  # Again, same as above.
-semester: sp25 # set for the current seemester
+semester: fa25 # set for the current seemester
 # This should be one of eecs, dsus, stat
 # (Future) This will control some footer text, and later custom styling.
 course_department: eecs
@@ -54,9 +54,9 @@ additional_extensions: TBD # Google Form URL
 course_faq: /faq/
 
 # used on CS 195 syllabus
-term: Spring 2025
-lecture_time: Tuesday 11:00-12:30PM
-lecture_room: Dwinelle 145
+term: Fall 2025
+lecture_time: Tuesday 3:30-5:00PM
+lecture_room: Physics Building 1
 discussion_time: 
 discussion_room: 
 
@@ -72,7 +72,7 @@ aux_links:
   #OH Queue:
   #  - 'https://oh.c88c.org'
   bcourses:
-    - 'https://bcourses.berkeley.edu/courses/1542384'
+    - 'https://bcourses.berkeley.edu/courses/1538786'
 
 # TODO(template): These need to be documented
 # TODO(semester): You may want to review these...
