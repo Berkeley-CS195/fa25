@@ -6,4 +6,3 @@ Status: Active
 
 Thu 10/02
 : {% lec 6 %}
-: {% projDue 1 %} Podcast 1 Due
