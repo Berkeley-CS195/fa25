@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CS 195 / H195 QQCRs
+title: CS 195 QQCRs
 description: >-
     Question, Quote, Comment, and Reply Assignment.
 nav_order: 5

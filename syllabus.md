@@ -64,10 +64,7 @@ Lecture is going to be a mix of presentations, students asking questions, group 
 Participation in class is expected, and attendance will be taken.
 The lecture is the vast majority of the experience of the class, and therefore you cannot have a time conflict. There will *not* be after-the-fact recordings posted.
 
-This semester, CS195 will be taught **in-person**, by default. However, we understand that you may have public health concerns, commuting schedules, personal circumstances, etc. We therefore offer an [opt-in Zoom Lecture Form](https://forms.gle/EVQqY3nreNKSgNgJ7){: target="\_blank"} for students to request online attendance for most or all lectures. We ask that you submit this form as soon as you know your accommodation (ideally 24 hours before the next lecture) so we can respond to your request.
-
-Just like in-person students, Zoom students are expected to attend the majority of lecture. We will review Zoom attendance logs, and student not registered for the opt-in Zoom option will not receive credit.
-If you are mostly able to attend in person and need to miss a few lectures, in lieu of Zoom options we request that you use the provided lecture drops. See the Accommmodations section below for more details.
+This semester, CS195 will be taught **in-person**. If you are mostly able to attend in person and need to miss a few lectures, in lieu of hybrid options to participate we request that you use the provided lecture drops. See the Accommmodations section below for more details.
 
 ## Surveys
 
@@ -92,7 +89,7 @@ You do not need to purchase any additional materials for this course. Some linke
 ### QQCRs
 A QQCR, or a <i>Question, Quote, Comment, and Reply</i> is a short weekly assignment on the readings to help you reflect on the readings *and* contribute to an ongoing class discussion.
 
-To get credit each week, you must complete a **QQCR set**: make three posts on the associated Ed megathreads for that week, where one of the posts must be a reply.
+To get credit each week, you must complete a **QQCR set**: do the readings, make comments on class posts, and reply to other students' comments. <!--make three posts on the associated Ed megathreads for that week, where one of the posts must be a reply.-->
 Please see the [QQCR Assignment]({{site.baseurl}}/qqcr) page for more details.
 
 ## Podcasts

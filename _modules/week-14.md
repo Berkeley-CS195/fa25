@@ -5,4 +5,4 @@ Status: Active
 ---
 
 Thu 11/27
-: {% lec 14%}
+: Thanksgiving break (no class)
