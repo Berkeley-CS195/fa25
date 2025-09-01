@@ -75,7 +75,7 @@ These are also located on the sidebar, [H195 Assignments]({{ site.baseurl }}/h19
 
 ### Readings / QQC 
 
-**Question, Quote, Comment** for CS H195 is different from QQC for CS 195. We have time for discussing the readings in section, so instead of posting on Ed you will jot down notes about your readings in a running QQC document to prepare for class discussion. See the H195 QQCRs page (link above) for more details.
+**Question, Quote, Comment** for CS H195 is different from QQC for CS 195. We have time for discussing the readings in section, but we expect conversation about the readings to happen before class. See the [CS H195 QQCR assignment](https://cs195.org/fa25/qqcr-h195/) for details.
 
 CS H195 readings include both CS 195 readings *and* CS H195 readings. The former usually consists of articles; the latter is more often literature and research.
 We expect you complete CS 195 readings in time for the corresponding lecture and CS H195 readings in time for the corresponding section. These are listed on each lecture page when it exists.
