@@ -223,6 +223,8 @@ module Jekyll
       if survey['name']
         if survey['required']
           survey_str += "**Required**{: .label .label-req }"
+        else
+          survey_str += "**Optional**{: .label .label-opt }"
         end
         if survey['link']
           survey_str += "[#{survey['name']}](#{survey['link']}){: target=\"_blank\"}"
