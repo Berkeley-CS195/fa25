@@ -3,20 +3,21 @@ layout: page
 title: CS 195 Podcast Assignment
 has_toc: true
 nav_order: 7
-group_form: https://forms.gle/cZ3zsbajtu7zLuVd8
+group_form: https://docs.google.com/forms/d/e/1FAIpQLSc3A3s2GRqxasyIPT8rroF2aU01c5lUABgd0IcUN-d_63_99w/viewform?usp=header
 podcast1:
-  rel:        09/19
-  group_due:  02/18
-  group_rel:  02/20
-  due:        03/11
-  peer_rel:   03/14
-  peer_due:   03/21
+  rel:        09/12
+  group_due:  09/16
+  group_rel:  09/28
+  due:        10/9
+  peer_rel:   10/9
+  peer_due:   10/17
 podcast2:
+  rel:        11/07
   group_due:  N/A
   group_rel:  N/A
-  due:        04/29
-  peer_rel:   05/02
-  peer_due:   05/09
+  due:        11/20
+  peer_rel:   11/20
+  peer_due:   12/04
 
 ---
 

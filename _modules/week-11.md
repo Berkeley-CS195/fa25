@@ -4,8 +4,8 @@ date: 2025-11-06
 Status: Active
 ---
 
-Thu 10/22
+Thu 11/06
 : {% lec 11 %}
 
-Fri 10/23
+Fri 11/07
 : {% proj 2%} Podcast 2 Released <!--[Podcast 2 Released]({{ site.baseurl}}/podcast)-->
