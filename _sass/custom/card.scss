@@ -58,6 +58,13 @@
         color: $block-text-color;
       }
 
+      &.label-opt {
+        color: $block-text-color;
+        background-color: transparent;
+        color: $req-color;
+        box-shadow: inset 0 0 0 2px $req-color;
+      }
+
       &.label-lec {
         background-color: $lecture-color;
         color: $block-text-color;
