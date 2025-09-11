@@ -73,7 +73,7 @@ There will be periodic required surveys throughout the semester, announced durin
 Required surveys (tentative, updated throughout the semester):
 * Week 1/2 Welcome Survey
 * Group matching for Podcast 1
-* Week 5 Survey
+* Week 3 Survey
 * Week 6 Survey
 * Week 8 Survey
 * Week 12 Survey

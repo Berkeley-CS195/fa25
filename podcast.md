@@ -6,8 +6,8 @@ nav_order: 7
 group_form: https://docs.google.com/forms/d/e/1FAIpQLSc3A3s2GRqxasyIPT8rroF2aU01c5lUABgd0IcUN-d_63_99w/viewform?usp=header
 podcast1:
   rel:        09/12
-  group_due:  09/16
-  group_rel:  09/28
+  group_due:  09/18
+  group_rel:  09/22
   due:        10/9
   peer_rel:   10/9
   peer_due:   10/17

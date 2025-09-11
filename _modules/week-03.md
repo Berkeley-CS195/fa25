@@ -6,6 +6,7 @@ Status: Active
 
 Thu 09/11
 : {% lec 3 %}
+    : {% survey 3 %}
 
 Fri 09/12
-: {% proj 1%} Podcast 1 Released <!--[Podcast 2 Released]({{ site.baseurl}}/podcast)-->
+: {% proj 1%} [Podcast 1 Released]({{ site.baseurl}}/podcast)
