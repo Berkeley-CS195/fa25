@@ -10,4 +10,4 @@ Thu 09/11
 
 Fri 09/12
 : {% proj 1%} [Podcast 1 Released]({{ site.baseurl}}/podcast)
-    : [Group matching form](https://forms.gle/MCLqt8VCP17bueKE8), Due Thu 9/18 11:59pm
+    : **Required**{: .label .label-req }[Group matching form](https://forms.gle/MCLqt8VCP17bueKE8), Due Thu 9/18 11:59pm
