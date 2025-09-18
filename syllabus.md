@@ -52,8 +52,8 @@ In order to receive a passing grade in CS 195, you must complete the following:
 | Course Component | Overview |
 | --- | --- |
 | [Lectures](#lectures)     | Attend at least **9** out of 12 lectures (starting Week 02) | 
-| [Surveys](#surveys) | Complete all required course surveys (about 7 in the semester) |
-| [Readings / QQCR](#readings--qqcr)| Submit at least 9 of 12 QQCRs (starting Week 02) |
+| [Surveys](#surveys) | Complete all required course surveys (about 4 in the semester) |
+| [Readings / QQCR](#readings--qqcr)| [updated 9/18] Submit at least <del>9</del> **8** of 12 QQCRs (starting Week 02) |
 | [Podcasts](#podcasts)  | Submit two Computing in the News podcasts that receive passing peer review grades. Also, provide 2 peer reviews for each podcast. |
 
 ## Lectures
