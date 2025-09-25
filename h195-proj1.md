@@ -5,15 +5,13 @@ nav_exclude: true
 released: true
 dates:
   release: 2025-02-27
-  checkpoint1: Thu 3/6
-  checkpoint2: Thu 3/13
-  due: Thu 3/20
+  checkpoint1: Tue 10/7
+  checkpoint2: Tue 10/14
+  due: Tue 10/21 (due before dicussion)
 ---
 
 # CS H195 Project 1: Teaching Computing in Society
 {: .no_toc}
-
-This page is in beta and is subject to change. This assignment will be in October.
 
 ## Table of Contents
 {: .no_toc .text-delta }
@@ -55,7 +53,7 @@ starting points.
 
 1. Submit the Google Document you will use for this project. This document will be used for all parts of the project, including the finalized writeup.
 
-  * Make a copy of this google doc [template](https://docs.google.com/document/d/1jzI5VddDU0DgIWXA9y3sKIoEpzTeGq_bqdKdNCzwYYo/edit?usp=sharing),
+  * Make a copy of this google doc [template](https://docs.google.com/document/d/1_1rdNTp2SEOIBJraTYNs0FL5_SrkED9Xx8OOR8xO3e4/edit?usp=sharing),
   * Update the title to include your last name (and your partner's if applicable),
   * Update permissions to enable **comments** by anyone in UC Berkeley, and
   * Submit a commentable link of your copy to bCourses.
