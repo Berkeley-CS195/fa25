@@ -61,6 +61,9 @@ discussion_time:
 discussion_room: 
 
 assignment_time: "11:59pm"
+n_qqcr_drops: 4
+n_qqcrs_min: 8
+n_qqcrs: 12
 
 # TODO(setup): Set these auxiliary links as you wish - they show up on the top right
 aux_links:

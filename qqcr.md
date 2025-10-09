@@ -4,9 +4,6 @@ title: CS 195 QQCRs
 description: >-
     Question, Quote, Comment, and Reply Assignment.
 nav_order: 5
-n_drops: 3
-n_qqcrs_min: 10
-n_qqcrs: 13
 ---
 
 # Question, Quote, Comment, and Reply (QQCR) Assignment
@@ -31,7 +28,7 @@ Multiple QQCRs compose a **QQCR set**. One QQCR set is assigned per lecture.
 * **You are expected to complete your QQCR sets prior to the corresponding lecture time.** This ensures a rich discussion during class. If readings are assigned for Week 3, you should finish the three QQCRs for that set of readings prior to the start of lecture that week.
 * For QQCRs, you only get credit for posting on Ed.
 * One-word posts will not receive credit. Most other posts longer than 50 characters will.
-* You are permitted up to **{{ page.n_drops }} QQCR set drops** this semester. That means that if you satisfactorily submit at least {{ page.n_qqcrs_min }} of {{ page.n_qqcrs }} sets of QQCRs, you will pass this course component. Lecture 1 does not have a QQCR set.
+* You are permitted up to **{{ site.n_qqcr_drops }} QQCR set drops** this semester. That means that if you satisfactorily submit at least {{ site.n_qqcrs_min }} of {{ site.n_qqcrs }} sets of QQCRs, you will pass this course component. Lecture 1 does not have a QQCR set.
 * It is OK if one or more of your QQCRs are on the same thread.
 
 <!--* It is OK for you to post anonymously, meaning your name will be anonymous to fellow classmates but visible to course staff (who will use it for tracking assignment credit).-->
