@@ -31,12 +31,13 @@ Post at least one QQCR on each Recommended or Required H195 Reading in the H195 
 ### To receive full credit for a given week:
 * You have posted at least one QQCR for each Recommended/Required reading for the week in the H195 Ed
 * 195 QQCRs are done by the time of 195 lecture
+* One of your QQCRs must be a reply
 * H195 QQCRs are done by the time of 195 discussion
 * The total number of your QQCRs meets or exceeds seven
 * Your QQCRs show effort and thought
 * Your QQCRs are at least five sentences each
 ### To receive full credit for the semester:
-* You have completed 10 of the 13 QQCRs
+* You have completed <del>10</del> **9** of the 13 QQCRs
 
 Your QQCRs will be graded periodically throughout the semester by instructors.
 
