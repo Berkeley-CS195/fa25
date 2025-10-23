@@ -6,3 +6,4 @@ Status: Active
 
 Thu 10/30
 : {% lec 10 %}
+    : **Required**{: .label .label-req } Week 10 Survey
