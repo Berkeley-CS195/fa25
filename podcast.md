@@ -38,7 +38,7 @@ All due dates are {{ site.assignment_time }} PT on the day listed.
 | --- | --- | --- |
 | Due: [Group matching form]({{ page.group_form }}){: target="\_blank"} | {{ page.podcast1["group_due"] | date: "%a %m/%d" }} | {{ page.podcast2["group_due"] | date: "%a %m/%d" }}|
 | Assigned: Groups | {{ page.podcast1["group_rel"] | date: "%a %m/%d" }} | {{ page.podcast2["group_rel"] | date: "%a %m/%d" }}|
-| Due: Podcast 1 | {{ page.podcast1["due"] | date: "%a %m/%d" }} | {{ page.podcast2["due"] | date: "%a %m/%d" }}|
+| Due: Podcast | {{ page.podcast1["due"] | date: "%a %m/%d" }} | {{ page.podcast2["due"] | date: "%a %m/%d" }}|
 | Assigned: Peer Reviews | {{ page.podcast1["peer_rel"] | date: "%a %m/%d" }} | {{ page.podcast2["peer_rel"] | date: "%a %m/%d" }}|
 | Due: Peer Reviews | {{ page.podcast1["peer_due"] | date: "%a %m/%d" }} | {{ page.podcast2["peer_due"] | date: "%a %m/%d" }}|
 
