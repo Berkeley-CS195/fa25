@@ -67,7 +67,7 @@ to register your group and/or provide preferences for random group assignment.
 * After the form closes, we will email each group and include student contact emails. Please let us know if you do not receive your group assignment within a week of filling out the form.
   
 #### **Podcast 2**: 
-We assume your groups will be the same from last podcast, but if you want to switch you may email cs195@berkeley.edu by 03/28 at 11:59pm with your request for a group change. 
+We assume your groups will be the same from last podcast, but if you want to switch you may email cs195@berkeley.edu by 11/7 at 11:59pm with your request for a group change. 
 
 People whose partners have dropped or had other extenuating circumstances have been informed of their new groups. 
 
@@ -129,7 +129,7 @@ Instructional staff will spot-review some podcasts and will explicitly re-review
 Submit your podcast via bCourses.
 
 * Only one person from each group will need to submit to bCourses.
-  * **Podcast 1**: Link coming later.
+  * **Podcast 1**: [Submission Link](https://bcourses.berkeley.edu/courses/1547928/assignments/8954900)
 
 * **You must announce your topic and the media you are citing at the beginning of your podcast.** This will greatly facilitate peer and staff grading.
 * **Check your filenames**: Remember that peer reviewers can see your filename. Please rename your file if you would prefer anonymity. 
