@@ -15,8 +15,8 @@ podcast2:
   rel:        11/07
   group_due:  N/A
   group_rel:  N/A
-  due:        11/20
-  peer_rel:   11/20
+  due:        11/25
+  peer_rel:   11/26
   peer_due:   12/04
 
 ---
