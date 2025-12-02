@@ -6,5 +6,5 @@ Status: Active
 
 Thu 12/04
 : {% lec 15%}
+    : {% survey 15 %}, Due Fri 12/5 11:59pm
 : {% projDue 2 %} Peer Reviews 2 Due
-    : **Required**{: .label .label-req } Week 15 Survey
